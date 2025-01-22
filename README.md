@@ -30,11 +30,11 @@ cd VehicleDetection
 
 pip install -r requirements.txt
 
-````
+```
 
 Las coordenadas son de la linea que se usa para detectar cada vehiculo, es decir, cada vehiculo que pase por esa linea sera detectado, esto dependera de cada camara, agulo y posicionamiento, pues dependera de donde esta la carretera, calle o autopista.
 
-````
+```
 python3 main.py (Coordenadas x1 y1 x2 y2 x3 y3 x4 y4)
 
 ```
