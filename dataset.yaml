@@ -1,0 +1,8 @@
+path: #ruta de carpeta origen para el entrenamiento
+train: #ruta de carpeta train
+val: #Ruta de validacion (carpeta val)
+test: #ruta de test (opcional)
+
+# Classes
+nc: 5 
+names: [ 'Car', 'Motorcycle', 'Truck', 'Bus', 'Bicycle']
